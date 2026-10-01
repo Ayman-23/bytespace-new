@@ -1,4 +1,4 @@
-import { Search, Users } from 'lucide-react';
+import { Search } from 'lucide-react';
 import '../styles/grid-patterns.css';
 
 const Hero = () => {

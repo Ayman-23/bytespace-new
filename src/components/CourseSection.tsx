@@ -1,4 +1,4 @@
-import { Star, Users } from 'lucide-react';
+import { Star } from 'lucide-react';
 
 const CourseSection = () => {
   const filters = [

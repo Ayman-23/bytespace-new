@@ -1,4 +1,4 @@
-import { Check, BarChart3 } from 'lucide-react';
+import { Check } from 'lucide-react';
 
 const CreatorCTA = () => {
   const features = [

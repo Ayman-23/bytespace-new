@@ -1,4 +1,4 @@
-import { Star, BarChart3 } from 'lucide-react';
+import { BarChart3 } from 'lucide-react';
 
 const GrowthSection = () => {
   const stats = [
