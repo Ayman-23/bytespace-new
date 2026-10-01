@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  body {
+    @apply bg-white text-[#0B1437] antialiased;
+    font-family: 'Inter', ui-sans-serif, system-ui, sans-serif;
+  }
+}
+
+.blob-shape {
+  border-radius: 45% 55% 60% 40% / 50% 55% 45% 50%;
+}
+
+.section-container {
+  @apply max-w-[1240px] mx-auto px-5 md:px-8;
+}
